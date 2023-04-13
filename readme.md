@@ -11,17 +11,28 @@
 Помимо науки я обожаю путешествия. В доковидные времена это получалось неплохо совмещать. Так, например, я прошла двухнедельную стажировку в Токийском технологическом институте в Японии
 
 ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_133157.jpg?raw=true) ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190315_142315.jpg?raw=true) 
-![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190313_161529_01.jpg?raw=true) ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_183345.jpg?raw=true)
+
+*Фудзияма*
+![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190313_161529_01.jpg?raw=true) 
+
+*Сибуя*
+![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_183345.jpg?raw=true)
 
 Также была на большой международной конференции EUROMAT-2019 в Стокгольме, Швеция.
 
-![](https://github.com/maryzaria/test/blob/main/photo/IMG-20190903-WA0002.jpg?raw=true) ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190901_155515.jpg?raw=true) 
+![](https://github.com/maryzaria/test/blob/main/photo/IMG-20190903-WA0002.jpg?raw=true) 
+
+*Площадь Стурторьет*
+![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190901_155515.jpg?raw=true) 
 
 Еще я жила 5 месяцев в Грузии (боже храни хачапури!) и отмечала свое 25-летие в Париже 
+
+*Эйфелева башня*
 ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20200116_140310.jpg?raw=true)
   
 ## Время перемен
 Всю свою жизнь я мечтала жить в Москве. Однако сейчас переехала в небольшой город на берегу моря и оказалось, что здесь гораздо спокойнее и безопаснее.
+
 ![](https://github.com/maryzaria/test/blob/main/photo/photo_2023-04-13_14-04-31.jpg?raw=true)
 
 Обычно я боюсь всего нового, однако сейчас решила сменить профессию и начала осваивать Python. На данный момент я прошла несколько курсов на [Stepik](https://stepik.org/catalog/search?q=python), прохожу курс по алгоритмам и структурам данных от Принстонского университета на [Coursera](https://www.coursera.org/learn/algorithms-part1) и начала изучать разработку на [Нетологии](https://netology.ru/). Это сложный, но интересный путь.
