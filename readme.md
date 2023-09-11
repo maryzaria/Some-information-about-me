@@ -7,7 +7,7 @@
 
 Кроме этого 2,5 года я работала редактором научного журнала Nuclear Energy and Technology [(NUCET)](https://nucet.pensoft.net/)
 
-## Моя тяга к петешествиям
+## Моя тяга к путешествиям
 Помимо науки я обожаю путешествия. В доковидные времена это получалось неплохо совмещать. Так, например, я прошла двухнедельную стажировку в Токийском технологическом институте в Японии
 
 ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_133157.jpg?raw=true) ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190315_142315.jpg?raw=true) 
