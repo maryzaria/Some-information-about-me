@@ -14,7 +14,7 @@
 
 *Сибуя*
 
-<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_183345.jpg?raw=true" width="700px"> ![]()
+<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_183345.jpg?raw=true" width="600px"> ![]()
 
 Также была на большой международной конференции EUROMAT-2019 в Стокгольме, Швеция.
 
