@@ -10,7 +10,7 @@
 ## Моя тяга к путешествиям
 Помимо науки я обожаю путешествия. В доковидные времена это получалось неплохо совмещать. Так, например, я прошла двухнедельную стажировку в Токийском технологическом институте в Японии
 
-<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_133157.jpg?raw=true" width="600px"> ![]()<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190315_142315.jpg?raw=true" width="338px"> ![]()
+<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_133157.jpg?raw=true" height="350px"> ![]()<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190315_142315.jpg?raw=true" height="350px"> ![]()
 
 *Сибуя*
 
