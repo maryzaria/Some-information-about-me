@@ -10,27 +10,28 @@
 ## Моя тяга к путешествиям
 Помимо науки я обожаю путешествия. В доковидные времена это получалось неплохо совмещать. Так, например, я прошла двухнедельную стажировку в Токийском технологическом институте в Японии
 
-![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_133157.jpg?raw=true) ![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190315_142315.jpg?raw=true) 
+<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_133157.jpg?raw=true" width="600px"> ![]()<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190315_142315.jpg?raw=true" width="338px"> ![]()
 
 *Сибуя*
-![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_183345.jpg?raw=true)
+
+<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190314_183345.jpg?raw=true" width="700px"> ![]()
 
 Также была на большой международной конференции EUROMAT-2019 в Стокгольме, Швеция.
 
-![](https://github.com/maryzaria/test/blob/main/photo/IMG-20190903-WA0002.jpg?raw=true) 
+*Мое выступление на конференции и площадь Стурторьет*
 
-*Площадь Стурторьет*
-![](https://github.com/maryzaria/test/blob/main/photo/IMG_20190901_155515.jpg?raw=true) 
+<img src="https://github.com/maryzaria/test/blob/main/photo/IMG-20190903-WA0002.jpg?raw=true" width="400px"> ![]() <img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20190901_155515.jpg?raw=true" width="400px">![]()
 
-Еще я жила 5 месяцев в Грузии (боже храни хачапури!) и отмечала свое 25-летие в Париже 
+Еще я жила пол года в Грузии (боже храни хачапури!) и отмечала свое 25-летие в Париже 
 
-*Эйфелева башня*
-![](https://github.com/maryzaria/test/blob/main/photo/IMG_20200116_140310.jpg?raw=true)
+*Париж и Тбилиси*
+
+<img src="https://github.com/maryzaria/test/blob/main/photo/IMG_20200116_140310.jpg?raw=true" width="400px">![]() <img src="https://github.com/maryzaria/some-information/blob/main/photo/photo_2023-09-14_16-41-06.jpg" width="400px">![]()
   
 ## Время перемен
 Всю свою жизнь я мечтала жить в Москве. Однако сейчас переехала в небольшой город на берегу моря и оказалось, что здесь гораздо спокойнее и безопаснее.
 
-![](https://github.com/maryzaria/test/blob/main/photo/photo_2023-04-13_14-04-31.jpg?raw=true)
+<img src="https://github.com/maryzaria/test/blob/main/photo/photo_2023-04-13_14-04-31.jpg?raw=true" width="400px">![]()
 
 Мне нравилось заниматься наукой, однако сейчас я решила сменить профессию и начала осваивать Python. На данный момент я прошла несколько курсов на [Stepik](https://stepik.org/users/557113986/profile), прохожу курс по алгоритмам и структурам данных от Принстонского университета на [Coursera](https://www.coursera.org/learn/algorithms-part1) и изучаю разработку на Python в [Нетологии](https://netology.ru/programs/python?recommended_by=instant_search#/lessons). Это сложный, но интересный путь.
 
@@ -43,5 +44,5 @@
 Давайте общаться: 
 - [Facebook](https://www.facebook.com/profile.php?id=100001621053420)
 - [ResearchGate](https://www.researchgate.net/profile/M-Zaripova)
-- Telegram @Maryzarya
+- Telegram [@Maryzarya](https://t.me/Maryzarya)
 - zaripova.mary.m@gmail.com
